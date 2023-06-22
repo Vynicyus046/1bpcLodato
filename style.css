@@ -1,4 +1,8 @@
 h1 {
   text-align: center;  
-  color: orangered;
+  font-size: 25px;
+  color: slategray;
+}
+body {
+  background-color: lightcoral;
 }
